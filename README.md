@@ -1,8 +1,10 @@
 # Speech-Recognition
 # Artificial Intelligence
 
+This project recieves your input command, recognizes the speech, and searches it on browser for you.
+
 A simple speech recognition project in python using Artifcial Intelligence.
-requirements: 
+Requirements: 
 	1. install pyaudio
 	2. install speechrecognition
 	3. install wav
